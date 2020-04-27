@@ -217,7 +217,7 @@ body {
     grid-gap: 15px;
     margin-left: 10px;
     margin-right: 10px;
-    margin-bottom: 10px;
+    padding-bottom: 10px;
 }
 
 .people img {
@@ -281,4 +281,13 @@ body {
     padding-left: 10px;
     padding-right: 20px;
     text-decoration: none;
+}
+
+h1 {
+    margin-top:0;
+}
+
+.email{
+    text-decoration: none;
+    color:antiquewhite;
 }
