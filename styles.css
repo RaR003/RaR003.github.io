@@ -14,11 +14,7 @@ body {
     margin:0;
     font-family: 'lato', sans-serif;
 }
-
-#container {
-    
-}
-    
+   
 
 .header {
     background-color: black;
@@ -73,6 +69,7 @@ body {
     color: white;
     font-size: 1.2em;
     text-align: center;
+    height: auto;
  
 }
     
