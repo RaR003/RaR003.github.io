@@ -288,6 +288,7 @@ body {
     color:white;
     text-align: center;
     border: 9px solid white;
+    margin:auto;
 }
 
 #page5 .a {
@@ -328,6 +329,7 @@ h1 {
     color:slategrey;
     grid-row: 2;
     grid-column: 3/3;
+    margin:auto;
 }
 
 .home{
